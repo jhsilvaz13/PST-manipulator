@@ -11,6 +11,7 @@ def listar_correos(folder, csv_writer):
             asunto = item.subject
             fecha = item.delivery_time
             enviado_por = item.sender_name
+            
             # Escribir los datos del correo en el archivo CSV
             csv_writer.writerow([asunto, fecha, enviado_por])
             

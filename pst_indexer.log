@@ -1,0 +1,169 @@
+2023-12-27 11:14:27,825 | INFO | Starting PST_Indexer v.0.01
+2023-12-27 11:14:27,825 | DEBUG | System linux
+2023-12-27 11:14:27,825 | DEBUG | Version 3.11.4 (main, Dec  7 2023, 15:43:41) [GCC 12.3.0]
+2023-12-27 11:14:27,825 | INFO | Starting Script...
+2023-12-27 11:14:27,825 | DEBUG | Opening PST for processing...
+2023-12-27 11:14:27,948 | DEBUG | Starting traverse of PST structure...
+2023-12-27 11:14:27,948 | DEBUG | Processing Folder: SPAM Search Folder 2
+2023-12-27 11:14:27,948 | WARNING | Empty message not processed
+2023-12-27 11:14:27,949 | DEBUG | Processing Folder: Elementos eliminados
+2023-12-27 11:14:27,949 | WARNING | Empty message not processed
+2023-12-27 11:14:27,949 | DEBUG | Processing Folder: Enviados
+2023-12-27 11:14:27,949 | WARNING | Empty message not processed
+2023-12-27 11:14:27,949 | DEBUG | Processing Folder: [Gmail]
+2023-12-27 11:14:27,950 | WARNING | Empty message not processed
+2023-12-27 11:14:27,950 | DEBUG | Processing Folder: Bandeja de entrada
+2023-12-27 11:14:31,810 | DEBUG | Processing Folder: Principio del archivo de datos de Outlook
+2023-12-27 11:14:31,810 | WARNING | Empty message not processed
+2023-12-27 11:14:31,810 | DEBUG | Processing Folder: Buscar raíz
+2023-12-27 11:14:31,810 | WARNING | Empty message not processed
+2023-12-27 11:14:31,811 | INFO | Script Complete
+2023-12-27 11:15:30,204 | INFO | Starting PST_Indexer v.0.01
+2023-12-27 11:15:30,204 | DEBUG | System linux
+2023-12-27 11:15:30,205 | DEBUG | Version 3.11.4 (main, Dec  7 2023, 15:43:41) [GCC 12.3.0]
+2023-12-27 11:15:30,205 | INFO | Starting Script...
+2023-12-27 11:15:30,205 | DEBUG | Opening PST for processing...
+2023-12-27 11:15:30,325 | DEBUG | Starting traverse of PST structure...
+2023-12-27 11:15:30,325 | DEBUG | Processing Folder: SPAM Search Folder 2
+2023-12-27 11:15:30,325 | WARNING | Empty message not processed
+2023-12-27 11:15:30,325 | DEBUG | Processing Folder: Elementos eliminados
+2023-12-27 11:15:30,326 | WARNING | Empty message not processed
+2023-12-27 11:15:30,326 | DEBUG | Processing Folder: Enviados
+2023-12-27 11:15:30,326 | WARNING | Empty message not processed
+2023-12-27 11:15:30,326 | DEBUG | Processing Folder: [Gmail]
+2023-12-27 11:15:30,326 | WARNING | Empty message not processed
+2023-12-27 11:15:30,327 | DEBUG | Processing Folder: Bandeja de entrada
+2023-12-27 11:15:35,578 | DEBUG | Processing Folder: Principio del archivo de datos de Outlook
+2023-12-27 11:15:35,579 | WARNING | Empty message not processed
+2023-12-27 11:15:35,580 | DEBUG | Processing Folder: Buscar raíz
+2023-12-27 11:15:35,580 | WARNING | Empty message not processed
+2023-12-27 11:15:35,581 | INFO | Script Complete
+2023-12-27 11:16:14,827 | INFO | Starting PST_Indexer v.0.01
+2023-12-27 11:16:14,827 | DEBUG | System linux
+2023-12-27 11:16:14,827 | DEBUG | Version 3.11.4 (main, Dec  7 2023, 15:43:41) [GCC 12.3.0]
+2023-12-27 11:16:14,827 | INFO | Starting Script...
+2023-12-27 11:16:14,827 | DEBUG | Opening PST for processing...
+2023-12-27 11:16:15,029 | DEBUG | Starting traverse of PST structure...
+2023-12-27 11:16:15,029 | DEBUG | Processing Folder: SPAM Search Folder 2
+2023-12-27 11:16:15,029 | WARNING | Empty message not processed
+2023-12-27 11:16:15,030 | DEBUG | Processing Folder: Elementos eliminados
+2023-12-27 11:16:15,030 | WARNING | Empty message not processed
+2023-12-27 11:16:15,031 | DEBUG | Processing Folder: Enviados
+2023-12-27 11:16:15,031 | WARNING | Empty message not processed
+2023-12-27 11:16:15,031 | DEBUG | Processing Folder: [Gmail]
+2023-12-27 11:16:15,031 | WARNING | Empty message not processed
+2023-12-27 11:16:15,031 | DEBUG | Processing Folder: Bandeja de entrada
+2023-12-27 11:16:21,580 | DEBUG | Processing Folder: Principio del archivo de datos de Outlook
+2023-12-27 11:16:21,580 | WARNING | Empty message not processed
+2023-12-27 11:16:21,580 | DEBUG | Processing Folder: Buscar raíz
+2023-12-27 11:16:21,581 | WARNING | Empty message not processed
+2023-12-27 11:16:21,581 | INFO | Script Complete
+2023-12-27 11:17:09,886 | INFO | Starting PST_Indexer v.0.01
+2023-12-27 11:17:09,886 | DEBUG | System linux
+2023-12-27 11:17:09,886 | DEBUG | Version 3.11.4 (main, Dec  7 2023, 15:43:41) [GCC 12.3.0]
+2023-12-27 11:17:09,886 | INFO | Starting Script...
+2023-12-27 11:17:09,886 | DEBUG | Opening PST for processing...
+2023-12-27 11:17:10,007 | DEBUG | Starting traverse of PST structure...
+2023-12-27 11:17:10,007 | DEBUG | Processing Folder: SPAM Search Folder 2
+2023-12-27 11:17:10,007 | WARNING | Empty message not processed
+2023-12-27 11:17:10,007 | DEBUG | Processing Folder: Elementos eliminados
+2023-12-27 11:17:10,007 | WARNING | Empty message not processed
+2023-12-27 11:17:10,008 | DEBUG | Processing Folder: Enviados
+2023-12-27 11:17:10,008 | WARNING | Empty message not processed
+2023-12-27 11:17:10,008 | DEBUG | Processing Folder: [Gmail]
+2023-12-27 11:17:10,008 | WARNING | Empty message not processed
+2023-12-27 11:17:10,008 | DEBUG | Processing Folder: Bandeja de entrada
+2023-12-27 11:25:16,053 | INFO | Starting PST_Indexer v.0.01
+2023-12-27 11:25:16,053 | DEBUG | System linux
+2023-12-27 11:25:16,053 | DEBUG | Version 3.11.4 (main, Dec  7 2023, 15:43:41) [GCC 12.3.0]
+2023-12-27 11:25:16,054 | INFO | Starting Script...
+2023-12-27 11:25:16,054 | DEBUG | Opening PST for processing...
+2023-12-27 11:25:16,173 | DEBUG | Starting traverse of PST structure...
+2023-12-27 11:25:16,173 | DEBUG | Processing Folder: SPAM Search Folder 2
+2023-12-27 11:25:16,173 | WARNING | Empty message not processed
+2023-12-27 11:25:16,174 | DEBUG | Processing Folder: Elementos eliminados
+2023-12-27 11:25:16,174 | WARNING | Empty message not processed
+2023-12-27 11:25:16,174 | DEBUG | Processing Folder: Enviados
+2023-12-27 11:25:16,174 | WARNING | Empty message not processed
+2023-12-27 11:25:16,174 | DEBUG | Processing Folder: [Gmail]
+2023-12-27 11:25:16,175 | WARNING | Empty message not processed
+2023-12-27 11:25:16,175 | DEBUG | Processing Folder: Bandeja de entrada
+2023-12-27 11:27:38,222 | INFO | Starting PST_Indexer v.0.01
+2023-12-27 11:27:38,222 | DEBUG | System linux
+2023-12-27 11:27:38,222 | DEBUG | Version 3.11.4 (main, Dec  7 2023, 15:43:41) [GCC 12.3.0]
+2023-12-27 11:27:38,222 | INFO | Starting Script...
+2023-12-27 11:27:38,222 | DEBUG | Opening PST for processing...
+2023-12-27 11:27:38,339 | DEBUG | Starting traverse of PST structure...
+2023-12-27 11:27:38,339 | DEBUG | Processing Folder: SPAM Search Folder 2
+2023-12-27 11:27:38,339 | WARNING | Empty message not processed
+2023-12-27 11:27:38,340 | DEBUG | Processing Folder: Elementos eliminados
+2023-12-27 11:27:38,340 | WARNING | Empty message not processed
+2023-12-27 11:27:38,340 | DEBUG | Processing Folder: Enviados
+2023-12-27 11:27:38,340 | WARNING | Empty message not processed
+2023-12-27 11:27:38,340 | DEBUG | Processing Folder: [Gmail]
+2023-12-27 11:27:38,341 | WARNING | Empty message not processed
+2023-12-27 11:27:38,341 | DEBUG | Processing Folder: Bandeja de entrada
+2023-12-27 11:27:49,752 | INFO | Starting PST_Indexer v.0.01
+2023-12-27 11:27:49,752 | DEBUG | System linux
+2023-12-27 11:27:49,752 | DEBUG | Version 3.11.4 (main, Dec  7 2023, 15:43:41) [GCC 12.3.0]
+2023-12-27 11:27:49,752 | INFO | Starting Script...
+2023-12-27 11:27:49,752 | DEBUG | Opening PST for processing...
+2023-12-27 11:27:49,867 | DEBUG | Starting traverse of PST structure...
+2023-12-27 11:27:49,868 | DEBUG | Processing Folder: SPAM Search Folder 2
+2023-12-27 11:27:49,868 | WARNING | Empty message not processed
+2023-12-27 11:27:49,868 | DEBUG | Processing Folder: Elementos eliminados
+2023-12-27 11:27:49,868 | WARNING | Empty message not processed
+2023-12-27 11:27:49,869 | DEBUG | Processing Folder: Enviados
+2023-12-27 11:27:49,869 | WARNING | Empty message not processed
+2023-12-27 11:27:49,869 | DEBUG | Processing Folder: [Gmail]
+2023-12-27 11:27:49,869 | WARNING | Empty message not processed
+2023-12-27 11:27:49,869 | DEBUG | Processing Folder: Bandeja de entrada
+2023-12-27 11:28:05,808 | INFO | Starting PST_Indexer v.0.01
+2023-12-27 11:28:05,808 | DEBUG | System linux
+2023-12-27 11:28:05,808 | DEBUG | Version 3.11.4 (main, Dec  7 2023, 15:43:41) [GCC 12.3.0]
+2023-12-27 11:28:05,808 | INFO | Starting Script...
+2023-12-27 11:28:05,808 | DEBUG | Opening PST for processing...
+2023-12-27 11:28:05,926 | DEBUG | Starting traverse of PST structure...
+2023-12-27 11:28:05,927 | DEBUG | Processing Folder: SPAM Search Folder 2
+2023-12-27 11:28:05,927 | WARNING | Empty message not processed
+2023-12-27 11:28:05,927 | DEBUG | Processing Folder: Elementos eliminados
+2023-12-27 11:28:05,927 | WARNING | Empty message not processed
+2023-12-27 11:28:05,928 | DEBUG | Processing Folder: Enviados
+2023-12-27 11:28:05,928 | WARNING | Empty message not processed
+2023-12-27 11:28:05,928 | DEBUG | Processing Folder: [Gmail]
+2023-12-27 11:28:05,928 | WARNING | Empty message not processed
+2023-12-27 11:28:05,928 | DEBUG | Processing Folder: Bandeja de entrada
+2023-12-27 11:28:12,792 | INFO | Starting PST_Indexer v.0.01
+2023-12-27 11:28:12,792 | DEBUG | System linux
+2023-12-27 11:28:12,792 | DEBUG | Version 3.11.4 (main, Dec  7 2023, 15:43:41) [GCC 12.3.0]
+2023-12-27 11:28:12,792 | INFO | Starting Script...
+2023-12-27 11:28:12,792 | DEBUG | Opening PST for processing...
+2023-12-27 11:28:12,910 | DEBUG | Starting traverse of PST structure...
+2023-12-27 11:28:12,910 | DEBUG | Processing Folder: SPAM Search Folder 2
+2023-12-27 11:28:12,910 | WARNING | Empty message not processed
+2023-12-27 11:28:12,911 | DEBUG | Processing Folder: Elementos eliminados
+2023-12-27 11:28:12,911 | WARNING | Empty message not processed
+2023-12-27 11:28:12,911 | DEBUG | Processing Folder: Enviados
+2023-12-27 11:28:12,911 | WARNING | Empty message not processed
+2023-12-27 11:28:12,911 | DEBUG | Processing Folder: [Gmail]
+2023-12-27 11:28:12,912 | WARNING | Empty message not processed
+2023-12-27 11:28:12,912 | DEBUG | Processing Folder: Bandeja de entrada
+2023-12-27 11:28:15,741 | DEBUG | Processing Folder: Principio del archivo de datos de Outlook
+2023-12-27 11:28:15,741 | WARNING | Empty message not processed
+2023-12-27 11:28:15,742 | DEBUG | Processing Folder: Buscar raíz
+2023-12-27 11:28:15,742 | WARNING | Empty message not processed
+2023-12-27 11:28:15,742 | INFO | Script Complete
+2023-12-27 11:28:54,103 | INFO | Starting PST_Indexer v.0.01
+2023-12-27 11:28:54,103 | DEBUG | System linux
+2023-12-27 11:28:54,103 | DEBUG | Version 3.11.4 (main, Dec  7 2023, 15:43:41) [GCC 12.3.0]
+2023-12-27 11:28:54,103 | INFO | Starting Script...
+2023-12-27 11:28:54,103 | DEBUG | Opening PST for processing...
+2023-12-27 11:29:09,162 | INFO | Starting PST_Indexer v.0.01
+2023-12-27 11:29:09,162 | DEBUG | System linux
+2023-12-27 11:29:09,162 | DEBUG | Version 3.11.4 (main, Dec  7 2023, 15:43:41) [GCC 12.3.0]
+2023-12-27 11:29:09,162 | INFO | Starting Script...
+2023-12-27 11:29:09,162 | DEBUG | Opening PST for processing...
+2023-12-27 11:31:56,901 | INFO | Starting PST_Indexer v.0.01
+2023-12-27 11:31:56,902 | DEBUG | System linux
+2023-12-27 11:31:56,902 | DEBUG | Version 3.11.4 (main, Dec  7 2023, 15:43:41) [GCC 12.3.0]
+2023-12-27 11:31:56,902 | INFO | Starting Script...
